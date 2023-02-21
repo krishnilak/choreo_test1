@@ -1,0 +1,12 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.1.2"
+  export = ["petstorekl"]
+  icon = "docs/icon.png"
+  keywords = ["Type/GraphQL","Category/Service","Internal/http"]
+  name = "petstorekl"
+  org = "petstorekla"
+  version = "1.0.1"
+
